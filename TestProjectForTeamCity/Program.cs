@@ -7,7 +7,7 @@ namespace TestProjectForTeamCity
         static void Main(string[] args)
         {
             Calculator calculator = new Calculator();
-            Console.WriteLine(calculator.Sum(2,2));
+            Console.WriteLine(calculator.Sum(3,2));
         }
     }
 }
