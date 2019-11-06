@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProjectForTeamCity", "T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D2E803FD-6CA1-4487-83B8-84DE0B1F3C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectForTeamCity.Tests", "ConsoleApp1\TestProjectForTeamCity.Tests.csproj", "{DCCFB072-8572-4D3B-8E2C-FA9231AB6F1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectCalculatorTests", "TestProjectCalculatorTests\TestProjectCalculatorTests.csproj", "{EEDAA1FB-8D0A-45F3-84DC-2423C18A9022}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +19,16 @@ Global
 		{AB0BDA46-ADE2-4044-B9D3-3F8870BF1963}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB0BDA46-ADE2-4044-B9D3-3F8870BF1963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB0BDA46-ADE2-4044-B9D3-3F8870BF1963}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DCCFB072-8572-4D3B-8E2C-FA9231AB6F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCCFB072-8572-4D3B-8E2C-FA9231AB6F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCCFB072-8572-4D3B-8E2C-FA9231AB6F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCCFB072-8572-4D3B-8E2C-FA9231AB6F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDAA1FB-8D0A-45F3-84DC-2423C18A9022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDAA1FB-8D0A-45F3-84DC-2423C18A9022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDAA1FB-8D0A-45F3-84DC-2423C18A9022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDAA1FB-8D0A-45F3-84DC-2423C18A9022}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{DCCFB072-8572-4D3B-8E2C-FA9231AB6F1A} = {D2E803FD-6CA1-4487-83B8-84DE0B1F3C60}
+		{EEDAA1FB-8D0A-45F3-84DC-2423C18A9022} = {D2E803FD-6CA1-4487-83B8-84DE0B1F3C60}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF491083-F473-44A2-9F0D-23741E5D4CEC}
